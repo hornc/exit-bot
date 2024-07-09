@@ -1,4 +1,4 @@
-# exit-bot – 8出口
+# exit-bot – 出口8
 Simple bot to play the Steam / Unity game [The Exit 8](https://store.steampowered.com/app/2653790/The_Exit_8/), (badly).
 
 ８番出口 / The Exit 8 is a short (15-60 mins), psychological horror style walking simulator game [available on Steam](https://store.steampowered.com/app/2653790/The_Exit_8/)
