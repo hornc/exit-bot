@@ -13,6 +13,11 @@ Ideally before reading further you should have:
 
 If you still want to explore what else to do with the game, this bot might be one answer....
 
+## Requirements
+* OS: Windows (Exit 8 is Windows only on Steam)
+* Python 3.8 (autopy doesn't build nicely on higher versions?)
+* [autopy](https://github.com/autopilot-rs/autopy), a "cross-platform GUI automation library for Python"
+
 
 <details>
   <summary>Motivation</summary>
